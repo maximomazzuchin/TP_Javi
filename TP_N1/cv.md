@@ -1,3 +1,3 @@
 Nombre: Maximo
 Apellido: Mazzuchin
-Edad: 56 años
+Edad: 32 años
